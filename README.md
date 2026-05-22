@@ -51,6 +51,9 @@ Business Logic Execution
 Data Stored in ArrayList
     ↓
 Output Displayed in Console
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4659a539-3aae-43ac-9544-f023bdd594dd" />
+
 ```
 
 ---
